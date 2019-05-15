@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QRCode Ticketing</string>
+    <string name="title_activity_list_participants">ListParticipants</string>
+    <string name="title_activity_home_page">HomePage</string>
+</resources>
